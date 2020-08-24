@@ -14,7 +14,7 @@ Pewlett Hackard currently stores their employee data in 6 different csv files. H
 
 ### Retiring Pewlett Hackard Employees by Titles
 
-The current criteria for this analysis is to find employees born between 01/01/1952 and 12/31/1955. The major takeaways from this analysis are:
+The current criteria for this analysis is to find employees born between 1952 and 1955. The major takeaways from this analysis are:
 
 1. There are 90,396 employees who are likely to retire soon
 2. 57,668 employees are senior level employees
